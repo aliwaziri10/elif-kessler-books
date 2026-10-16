@@ -1,0 +1,92 @@
+{
+  "author": "Elif Kessler",
+  "series": "The Amity Falls Series",
+  "site_url": "https://aliwaziri10.github.io/elif-kessler-books/",
+  "books": [
+    {
+      "title": "Where the Frost Doesn't Reach",
+      "n": 1,
+      "link": "https://a.co/d/0gndbYmd",
+      "status": "published",
+      "short": "A second-chance, slow-burn small-town romance: she comes home and he doesn't remember her.",
+      "tropes": [
+        "Second chance romance",
+        "Slow burn",
+        "Small town",
+        "Return to hometown",
+        "Memory loss",
+        "Orchard setting",
+        "Closed door"
+      ]
+    },
+    {
+      "title": "What the Valley Still Owes",
+      "n": 2,
+      "link": "https://a.co/d/02KQnb51",
+      "status": "published",
+      "short": "Book 2 of The Amity Falls Series: a small town, an old debt, and a gift that costs a memory.",
+      "tropes": [
+        "Small town",
+        "Slow burn",
+        "Paranormal mystery",
+        "Found family",
+        "Secrets and old debts"
+      ]
+    },
+    {
+      "title": "What the Blood Remembers",
+      "n": 3,
+      "link": "https://a.co/d/0gKBZ0so",
+      "status": "published",
+      "short": "Book 3 of The Amity Falls Series: a hunger that runs in the blood and six weeks until the autumn eclipse.",
+      "tropes": [
+        "Small town",
+        "Paranormal mystery",
+        "Family loyalty",
+        "Race against time",
+        "Slow burn"
+      ]
+    },
+    {
+      "title": "The Secret She Kept Forever",
+      "n": 4,
+      "link": "https://a.co/d/04fD8jSn",
+      "status": "published",
+      "short": "The finale of The Amity Falls Series: a records investigator, a town archive, and a truth worth telling.",
+      "tropes": [
+        "Slow burn",
+        "Closed door",
+        "Small town",
+        "Archivist hero",
+        "Series finale",
+        "Truth versus secrets"
+      ]
+    }
+  ],
+  "colors": {
+    "bg1": "#14281f",
+    "bg2": "#3f6b4f",
+    "fg": "#f7f1e1",
+    "muted": "#cdd9c4",
+    "accent": "#e0b45c"
+  },
+  "hashtags": [
+    "#smalltownromance",
+    "#slowburnromance",
+    "#secondchanceromance",
+    "#closeddoorromance",
+    "#bookstagram",
+    "#booktok",
+    "#romancebooks",
+    "#smalltownbooks",
+    "#paranormalmystery",
+    "#cozyreads",
+    "#bookrecommendations",
+    "#readersofinstagram"
+  ],
+  "questions": [
+    "Second chance romance: does the couple get a fresh start or pick up where they left off?",
+    "Small town secrets: would you stay or leave?",
+    "Slow burn or instant spark? Pick one and defend it."
+  ]
+}
