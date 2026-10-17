@@ -1,126 +1,118 @@
 # Amity Falls Book 1: KDP and Reader-Discovery Audit
 
 **Prepared:** 2026-10-17  
-**Scope:** Where the Frost Doesn't Reach, Book 1 of The Amity Falls Series, by Elif Kessler.  
-**Status:** Working audit, not a claim that any changes have been made in KDP.
+**Book:** *Where the Frost Doesn't Reach*, Book 1 of *The Amity Falls Series*  
+**Status:** Manuscript-informed working audit. No Amazon listing changes have been made.
 
-## 1. Evidence and limitations
+## 1. Sources checked
 
-### Facts confirmed from the author's project files or supplied listing snapshot
-- Title: Where the Frost Doesn't Reach.
-- Author pen name: Elif Kessler.
-- Series: The Amity Falls Series, four books, all four marked published in the author-controlled marketing repository.
-- Book 1 is described in the project config as a second-chance, slow-burn small-town romance in which she comes home and he does not remember her.
-- Listed tropes in the project config: second-chance romance, slow burn, small town, return to hometown, memory loss, orchard setting, closed door.
+- Manuscript repository: https://github.com/Wazzaboyzz/Voxel
+- Book files: `novels/where-the-frost-doesnt-reach/`
+- Reviewed: story architecture, 45-chapter beat map, chapter 1, chapter 45, and the pre-publication checklist. The repository contains all 45 chapter files.
 - Amazon ASIN supplied by the author: B0HJMZBT3X.
-- User-provided listing snapshot: 325 pages, published 2026-09-12, Kindle Store rank #1,153,694, category ranks #10,845 Paranormal Suspense, #10,905 Second Chances Romance, #17,448 Supernatural Thrillers (Books), and one customer review entry. These are a snapshot, not verified live metrics or a trend.
-- The author reports Book 1 is not in Kindle Unlimited, while Books 2-4 are in Kindle Unlimited.
-- Existing author-controlled repository: https://github.com/aliwaziri10/elif-kessler-books
-- The Book 1 manuscript was NOT present in the scanned Voxel repository tree. The repository's novels/FROZEN_DO_NOT_EDIT.md says Amity Falls folders in Voxel are read-only. No changes were made to that repository.
+- User-provided Amazon listing snapshot: 325 pages, publication date 2026-09-12, Kindle Store rank #1,153,694; category ranks #10,845 Paranormal Suspense, #10,905 Second Chances Romance, #17,448 Supernatural Thrillers (Books); one customer-review entry. These are historical snapshot details, not a live check or evidence of a trend.
+- Author reports Book 1 is not enrolled in Kindle Unlimited, while Books 2-4 are.
+- The live Amazon detail page could not be fetched reliably during this audit. Current description, exact KDP keyword fields, list price, live categories and star rating remain unverified.
 
-### Not independently verified
-- Current live Amazon description, exact KDP keyword fields, actual selected KDP categories, list price, current live rank, review star rating, and whether the Series Collection page correctly links all four books.
-- Exact plot details beyond the brief trope/one-line description in the marketing config.
-- Search volume or conversion potential for any proposed keyword. No third-party keyword-volume estimate is being presented as fact.
+## 2. Verified story positioning
 
-## 2. First priority: category mismatch review
+The manuscript is not simply a conventional small-town romance. It combines:
+- Second-chance romance and a slow-burn rekindling.
+- A former fiancé with a two-year memory gap.
+- A small-town supernatural mystery built around a hidden valley bargain and memory tolls.
+- An active investigation by Mara, a structural engineer and Finder, into who redirected the toll onto Caleb.
+- Community secrets, a threatened young Finder, and a larger unresolved mystery that bridges into the next book.
+- A committed romantic resolution: Mara and Caleb marry, while the final scene introduces a further series mystery.
 
-The supplied listing snapshot shows Paranormal Suspense and Supernatural Thrillers alongside Second Chances Romance. The marketing config describes Book 1 primarily as a second-chance, slow-burn, small-town romance. That is a potential reader-expectation mismatch, not proof that the current categories are wrong: the book's actual paranormal content must be checked first.
+The most accurate broad positioning is **small-town paranormal romance with a supernatural mystery**, with second-chance, memory loss, slow burn, and an orchard setting as useful descriptors. Do not market it as romance-only or as a pure thriller without checking the intended audience and current cover/description.
 
-Recommended action after checking the manuscript and current KDP category selections:
-1. Keep a second-chance romance category if it is available and accurately describes the central relationship.
-2. Evaluate a small-town/rural romance category if available in the US Kindle category picker.
-3. Keep a paranormal or supernatural category only if paranormal events are a meaningful part of Book 1 itself, not merely later books in the series.
-4. Do not change categories based only on a rank number. Relevance comes first; category availability and labels can change.
+## 3. Draft sales description
 
-Amazon's official guidance says categories should accurately describe the book and warns against irrelevant categories:
-- https://kdp.amazon.com/en_US/help/topic/G200652170
+This draft is grounded in the story architecture and ending. It is new copy for author review, not a claim that the live listing already says this. Verify it against the final manuscript and author intent before publishing.
 
-## 3. Description: evidence-led draft for review, not yet cleared for publishing
+**She came home to bury her grandmother. The man she once planned to marry doesn't remember loving her.**
 
-The current Book 1 manuscript and current Amazon description were not available in the files inspected. The following is a conservative working draft based only on the existing project config and the author's previously supplied premise. Verify every sentence against the final published manuscript before using it.
+Eight years after leaving Amity Falls, Mara Voss returns for a funeral and finds Caleb Reyes alive, running his family's orchard, and looking at her as if they've never met. He remembers the life he built after she left. He remembers everything except the two years that included her.
 
-> She came home to bury her grandmother. The man she never stopped loving no longer remembers her.
->
-> Returning to a small town means facing the life she left behind, including the relationship that never found its ending. But when the person who once knew her best cannot remember their shared past, a second chance becomes more complicated than simply starting over.
->
-> Where the Frost Doesn't Reach is a slow-burn, second-chance small-town romance with memory loss, an orchard setting, and a closed-door love story. It begins The Amity Falls Series.
+In a valley where strange gifts come at the cost of memory, Caleb's missing past is more than a heartbreak. Someone has been making him pay for debts that were never his, and the town's long silence suggests the truth reaches further back than either of them knows.
 
-Required verification before publication: Confirm that the opening event, the memory-loss premise, the relationship history, the orchard's importance, and the closed-door label are accurate and do not reveal or contradict a key plot turn. This draft intentionally avoids inventing a deadline, villain, supernatural mechanism, family secret, or ending.
+Mara is determined to find out who took those years from Caleb. But the closer she gets to the answer, the more she risks uncovering about her own family, the valley's bargain, and the man she is falling for all over again.
 
-Amazon's description guidance recommends a concise story-and-character pitch, and prohibits review quotes, review requests, URLs, promotional claims, and keyword stuffing:
-- https://kdp.amazon.com/en_US/help/topic/G201097560
+Can two people choose a future when one of them cannot remember their past?
 
-## 4. Seven keyword-field candidates for testing
+*Where the Frost Doesn't Reach* is a slow-burn, second-chance small-town paranormal romance with memory loss, an orchard setting, and a supernatural mystery. It is the first book in *The Amity Falls Series*.
 
-These are research candidates, not proven high-volume terms. Before entering them, search each phrase on Amazon.com and inspect the autocomplete suggestions and first-page results. Keep a phrase only if the results show books a likely reader of this book would genuinely consider.
+### Copy review notes
+- The opening uses the central emotional hook without revealing the culprit.
+- The supernatural premise is explicit, so readers are not sold a purely contemporary romance.
+- The series hook is present without spoiling the final-page reveal.
+- Confirm whether “paranormal romance” is the desired genre label and whether the “strange gifts” and bargain are described in a way the manuscript itself supports.
+- The author identity must be resolved before making any author-field or cover recommendation: the marketing repository uses “Elif Kessler,” while the pre-publication checklist says the pen name still needs confirmation. Do not silently switch it.
 
-1. second chance romance
-2. slow burn romance
-3. small town romance
-4. amnesia romance
-5. returning home romance
-6. closed door romance
-7. orchard romance
+Amazon description guidance: https://kdp.amazon.com/en_US/help/topic/G201097560
 
-If autocomplete or results show that a phrase is not used by readers or produces unrelated books, replace it with a more specific phrase supported by the manuscript. Do not use other authors' names, competing book titles, "best seller" claims, "free", KDP Select / Kindle Unlimited as keywords, or phrases that misrepresent the book.
+## 4. Categories: investigate, do not change blindly
 
-Official KDP guidance: use up to seven relevant keywords or short phrases, think like a reader, inspect Amazon suggestions, and avoid irrelevant or misleading terms:
-- https://kdp.amazon.com/en_US/help/topic/G201298500
-- https://kdp.amazon.com/en_US/help/topic/G201097560
+The supplied listing snapshot shows category placements in Paranormal Suspense, Second Chances Romance, and Supernatural Thrillers. The manuscript confirms that the supernatural mystery is central, so those placements are **not automatically wrong**. The question is whether the romance or paranormal-mystery audience is the book's primary intended readership and whether each category matches the current edition's content.
 
-## 5. Metadata checklist
+Recommended review in the US Kindle category picker:
+1. Keep Second Chances Romance if available and if the romantic relationship is the primary selling promise.
+2. Compare available paranormal romance / paranormal fantasy options, if present, because supernatural abilities and memory magic are integral to the story.
+3. Retain Paranormal Suspense or Supernatural Thrillers only if their reader expectations match the cover, blurb, pacing and central conflict.
+4. Do not choose categories solely because their rank number appears easier to climb. Relevance and conversion matter more than a low rank threshold.
 
-Check in KDP Bookshelf, for the Kindle eBook edition:
-- [ ] Title matches the cover and book interior exactly.
-- [ ] Author is Elif Kessler, consistently.
-- [ ] Series is The Amity Falls Series, book number 1.
-- [ ] Description matches the actual book and is formatted for mobile skimming.
-- [ ] All seven keyword fields are relevant, distinct, and policy-compliant.
-- [ ] Categories match Book 1 itself.
-- [ ] Primary marketplace is Amazon.com if the intended primary market is the US.
-- [ ] Series page links all four books in correct reading order.
-- [ ] Current price, book cover, sample/Look Inside, and formats are correct.
-- [ ] The Kindle eBook's Select/KU status is intentionally chosen. Do not assume free-promotion days are available if the eBook is not enrolled in KDP Select.
+KDP allows up to three categories and requires them to match the book: https://kdp.amazon.com/en_US/help/topic/G200652170
 
-KDP confirms that description, keywords, and categories can be updated after publication, while some identity fields are locked after publication:
-- https://kdp.amazon.com/en_US/help/topic/G200736410
+## 5. Seven keyword-field candidates
 
-## 6. Marketing actions that do not require paid tools
+These are **relevance-based candidates, not proven high-volume keywords**. Before replacing current fields, compare them against the exact existing fields and test the wording on Amazon.com autocomplete and search results. Avoid duplicating words already covered by the title, author metadata or selected categories where possible.
 
-### This week
-1. Confirm the four Amazon book links open the correct titles.
-2. Finish the Elif Kessler Instagram account and link it to the existing Elif Kessler Facebook Page. The project handoff marked Instagram as not yet created on 2026-10-16.
-3. Review the prepared posts in queue/group_posts.md before using them. Group posts are manual: obey each group's self-promotion rules and do not paste identical promotional copy into many groups.
-4. Publish one introductory post, one Book 1 hook, and one series-order post on the author Page. Use the existing images in images/.
-5. Ask genuine readers for honest feedback privately without offering incentives or asking for a positive review. Never buy reviews, trade reviews, or ask readers to misrepresent their experience.
-6. Do not spend on ads until the listing copy, categories, price, and sample have been reviewed.
+1. memory loss love story
+2. small town paranormal romance
+3. second chance paranormal romance
+4. supernatural small town mystery
+5. magical memory bargain
+6. slow burn paranormal love
+7. orchard town romance
 
-### Next 30 days
-- Maintain a sustainable schedule of three posts per week, rotating: story hook, trope/reader question, series order, character/theme prompt, and book-specific post.
-- Use the Facebook Page and Instagram account to direct interested readers to Book 1, then use series-order content to help satisfied readers find Books 2-4.
-- Do not use unrelated groups or spam hashtags. Participate only where author promotion is allowed.
-- Consider an author website only after the book metadata and social profiles are accurate. The project handoff says the generated author site was not deployed; do not advertise it as live.
+Research rule: keep a phrase only if Amazon suggestions/results show books a likely reader of this novel would actually consider. Replace any phrase that produces unrelated results. No search-volume estimate is claimed here.
 
-## 7. Measurement plan
+Official KDP guidance recommends up to seven relevant keywords/short phrases and advises checking Amazon suggestions: https://kdp.amazon.com/en_US/help/topic/G201298500
 
-Record a baseline before changing metadata:
-- Date
-- Kindle eBook list price
-- KDP orders and Kindle Edition Normalized Pages (KENP) for Books 2-4, where applicable
-- Amazon rank snapshot (same marketplace and format each time)
-- Number of customer reviews and displayed rating
-- Page views / clicks if Amazon Attribution or other legitimate analytics are already available
-- Posts published, reach, link clicks, and resulting sales if measurable
+## 6. Metadata checklist for the KDP Bookshelf
 
-Review weekly for four weeks. Change one major listing variable at a time where practical. A rank change alone is not proof that a keyword caused it; sales rank fluctuates with sales and time.
+Before changing anything, capture the current values for the Kindle edition:
+- [ ] Confirm the intended author/pen name. Repository notes conflict; do not edit author identity until resolved.
+- [ ] Title matches cover and interior: *Where the Frost Doesn't Reach*.
+- [ ] Series name and book number are correct.
+- [ ] Copy current description to a backup file, then compare it with the draft above.
+- [ ] Copy all seven existing keyword fields to a backup file.
+- [ ] Record the three currently selected KDP categories, not just the category ranks displayed on Amazon.
+- [ ] Confirm US primary marketplace and current price.
+- [ ] Confirm series page links all four books in correct reading order.
+- [ ] Confirm the intended KDP Select/KU status. Book 1 is reported not enrolled; do not assume Select-only free-promotion days are available.
 
-## 8. Decision gates
+## 7. Manuscript readiness flags that affect marketing
 
-Do not publish the draft description or final keyword list until:
-1. The final Book 1 manuscript or authoritative blurb is checked.
-2. The current live Amazon description is compared against the draft.
-3. The exact KDP keyword fields and category selections are reviewed.
-4. The proposed categories are confirmed available in the US Kindle category picker.
+The repository's own pre-publication checklist reports:
+- An unresolved continuity contradiction about whether Kell is the same person as Ambrose/Adelaide Whitlock's century-old husband or a successor. The checklist explicitly says an author decision is needed before editing chapters 38, 39 or 43.
+- A full 45-chapter voice/continuity read-through remains open.
+- The AI-tell line-edit pass was marked incomplete for chapters 28-45 in the checklist.
+- Several chapters were flagged below the agreed 1,800-word floor or above the 2,500-word ceiling.
+- KDP formatting requirements, including front matter, table of contents and conversion checks, remain open in that checklist.
 
-No ranking, sales, or review outcome is guaranteed.
+These are repository-reported issues, not findings from a fresh full line edit by this audit. Since the book is already listed, treat them as a manuscript-quality review list, not a reason to make rushed edits to the live edition. Any revised upload should be checked carefully and should not alter plot facts accidentally.
+
+## 8. Free marketing plan
+
+- Prioritize accurate Amazon metadata and a clear genre promise before spending on advertising.
+- Use the central hook: “She remembers their love. He doesn't.”
+- Rotate content across romance, memory loss, the orchard setting, and the supernatural mystery. Avoid revealing the culprit or final-page twist.
+- Use the four-book reading order to help interested readers find the rest of the series. Do not claim Book 1 is in KU if it is not.
+- Promote only in groups whose rules allow author posts. Do not paste identical copy across unrelated groups.
+- Ask for honest feedback only; no incentives, review swaps, or requests for positive reviews.
+- Track weekly orders, KENP for Books 2-4 where available, review count/rating, rank snapshots, post reach and link clicks. Likes are not sales, and rank alone does not prove a keyword worked.
+
+## 9. What remains unverified
+
+No access was available to the live KDP metadata fields. The current description, exact keyword fields, selected categories, price and current review rating must be copied from KDP or a working listing page before a final before/after comparison. No ranking or sales outcome is guaranteed.
