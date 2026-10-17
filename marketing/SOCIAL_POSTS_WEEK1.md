@@ -2,13 +2,15 @@
 Author: Elif Kessler
 Book: *Where the Frost Doesn't Reach* (The Amity Falls Series, Book 1)
 Budget: $0
+KDP Select term: October 13, 2026 to January 11, 2027
+Free promotion status: not yet scheduled; KDP page showed 0/5 days used
 Amazon link: https://www.amazon.com/Where-Frost-Doesnt-Reach-Amity-ebook/dp/B0HJMZBT3X
 
 ## Posting rules
 - Use one post per day at most. Three or four posts across the week is enough.
 - Use the actual book cover as the image where possible. Do not use unrelated AI-generated book covers.
 - Keep the Amazon link in the post or profile link.
-- Do not claim Book 1 is in Kindle Unlimited. It is not currently enrolled in KU.
+- KDP dashboard confirms Book 1 is enrolled in KDP Select as of 2026-10-17. Before making a KU-specific claim, verify the Amazon.com product page displays the Kindle Unlimited badge.
 - Do not promise reviews, rankings, awards, or sales outcomes.
 - Use only genuine reader feedback, with permission where appropriate.
 
