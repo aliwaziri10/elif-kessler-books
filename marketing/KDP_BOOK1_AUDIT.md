@@ -2,7 +2,8 @@
 
 **Prepared:** 2026-10-17  
 **Book:** *Where the Frost Doesn't Reach*, Book 1 of *The Amity Falls Series*  
-**Status:** Manuscript-informed working audit. No Amazon listing changes have been made.
+**Author:** Elif Kessler  
+**Status:** Manuscript-informed working audit. Author name confirmed by the author on 2026-10-17. No Amazon listing changes have been made.
 
 ## 1. Sources checked
 
@@ -47,7 +48,7 @@ Can two people choose a future when one of them cannot remember their past?
 - The supernatural premise is explicit, so readers are not sold a purely contemporary romance.
 - The series hook is present without spoiling the final-page reveal.
 - Confirm whether “paranormal romance” is the desired genre label and whether the “strange gifts” and bargain are described in a way the manuscript itself supports.
-- The author identity must be resolved before making any author-field or cover recommendation: the marketing repository uses “Elif Kessler,” while the pre-publication checklist says the pen name still needs confirmation. Do not silently switch it.
+- Author name confirmed by the author on 2026-10-17: **Elif Kessler**. The source manuscript checklist is stale on this point; use Elif Kessler consistently in this project.
 
 Amazon description guidance: https://kdp.amazon.com/en_US/help/topic/G201097560
 
@@ -82,7 +83,7 @@ Official KDP guidance recommends up to seven relevant keywords/short phrases and
 ## 6. Metadata checklist for the KDP Bookshelf
 
 Before changing anything, capture the current values for the Kindle edition:
-- [ ] Confirm the intended author/pen name. Repository notes conflict; do not edit author identity until resolved.
+- [x] Confirmed author/pen name: Elif Kessler (author confirmation, 2026-10-17).
 - [ ] Title matches cover and interior: *Where the Frost Doesn't Reach*.
 - [ ] Series name and book number are correct.
 - [ ] Copy current description to a backup file, then compare it with the draft above.
