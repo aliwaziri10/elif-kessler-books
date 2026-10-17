@@ -12,7 +12,7 @@
 - Reviewed: story architecture, 45-chapter beat map, chapter 1, chapter 45, and the pre-publication checklist. The repository contains all 45 chapter files.
 - Amazon ASIN supplied by the author: B0HJMZBT3X.
 - User-provided Amazon listing snapshot: 325 pages, publication date 2026-09-12, Kindle Store rank #1,153,694; category ranks #10,845 Paranormal Suspense, #10,905 Second Chances Romance, #17,448 Supernatural Thrillers (Books); one customer-review entry. These are historical snapshot details, not a live check or evidence of a trend.
-- Author reports Book 1 is not enrolled in Kindle Unlimited, while Books 2-4 are.
+- Author confirmed on 2026-10-17 that Book 1 is now enrolled in KDP Select. The KDP dashboard shows term start October 13, 2026 and term end January 11, 2027. Books 2-4 are also in Kindle Unlimited.
 - The live Amazon detail page could not be fetched reliably during this audit. Current description, exact KDP keyword fields, list price, live categories and star rating remain unverified.
 
 ## 2. Verified story positioning
@@ -91,7 +91,7 @@ Before changing anything, capture the current values for the Kindle edition:
 - [ ] Record the three currently selected KDP categories, not just the category ranks displayed on Amazon.
 - [ ] Confirm US primary marketplace and current price.
 - [ ] Confirm series page links all four books in correct reading order.
-- [ ] Confirm the intended KDP Select/KU status. Book 1 is reported not enrolled; do not assume Select-only free-promotion days are available.
+- [x] KDP Select/KU status confirmed from the author's pasted dashboard on 2026-10-17: Book 1 is enrolled for October 13, 2026 to January 11, 2027. KDP promotion page showed 0/5 free days used and no promotions created.
 
 ## 7. Manuscript readiness flags that affect marketing
 
@@ -109,7 +109,7 @@ These are repository-reported issues, not findings from a fresh full line edit b
 - Prioritize accurate Amazon metadata and a clear genre promise before spending on advertising.
 - Use the central hook: “She remembers their love. He doesn't.”
 - Rotate content across romance, memory loss, the orchard setting, and the supernatural mystery. Avoid revealing the culprit or final-page twist.
-- Use the four-book reading order to help interested readers find the rest of the series. Do not claim Book 1 is in KU if it is not.
+- Use the four-book reading order to help interested readers find the rest of the series. Book 1 is now enrolled in KDP Select; verify its Amazon.com KU badge is live before publishing KU-specific claims.
 - Promote only in groups whose rules allow author posts. Do not paste identical copy across unrelated groups.
 - Ask for honest feedback only; no incentives, review swaps, or requests for positive reviews.
 - Track weekly orders, KENP for Books 2-4 where available, review count/rating, rank snapshots, post reach and link clicks. Likes are not sales, and rank alone does not prove a keyword worked.
