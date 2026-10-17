@@ -2,6 +2,7 @@
 
 **Book:** *Where the Frost Doesn't Reach*  
 **Series:** *The Amity Falls Series*  
+**Author:** Elif Kessler  
 **Budget:** $0  
 **Prepared:** 2026-10-17
 
@@ -39,7 +40,7 @@ Do not market this as a purely contemporary romance. Avoid spoilers about the cu
 - Ask readers for honest feedback without incentives.
 - Do not promote a website until it is live and checked.
 - Verify every book link before scheduling posts.
-- Confirm the author/pen name before adding it to new graphics or bios. Project notes currently conflict on this detail.
+- Use the confirmed author name, Elif Kessler, on new graphics and bios.
 
 ## Weekly scorecard
 Record posts published, reach, link clicks, page follows, Amazon orders, KENP for Books 2-4 where applicable, review count/rating and a same-marketplace rank snapshot. Treat small-sample results as directional, not conclusive.
